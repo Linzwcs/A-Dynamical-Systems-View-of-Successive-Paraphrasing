@@ -1,0 +1,3 @@
+language: en
+datalevel: sentence
+dataset: ../data/sentence/data-en.csv

@@ -1,0 +1,11 @@
+defaults:
+  - model: gpt-4o-mini
+  - data: paragraph-en
+
+generation:
+  n: 1
+  temperature: 0
+
+selector: random # random, max, min
+total_step: 15
+out_dir: ./out-rebuttal-complex-greedy/

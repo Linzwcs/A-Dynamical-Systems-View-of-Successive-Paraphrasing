@@ -1,0 +1,3 @@
+language: zh
+datalevel: sentence
+dataset: ../data/sentence/data-zh.csv

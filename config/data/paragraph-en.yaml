@@ -1,0 +1,3 @@
+language: en
+datalevel: paragraph
+dataset: ../data/paragraph/paragraph.csv
